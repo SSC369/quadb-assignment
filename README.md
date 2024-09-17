@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1gMvoxkGU8SIcezwHUgE2Nng8WMdM5z8E/view?usp=drive
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/quadb-assignment.git
+   git clone https://github.com/SSC369/quadb-assignment.git
    cd quadb-assignment
    ```
 
